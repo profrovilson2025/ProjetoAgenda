@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
 
 class Usuario {
   final int id;
-  final String nome;
+  final String nomes;
   final String telefone;
   final String email;
   Usuario({
